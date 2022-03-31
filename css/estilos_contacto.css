@@ -1,0 +1,65 @@
+input {
+    height: 35px;
+    color: #40869B;
+}
+
+.form-control-feedback {
+    position: absolute;
+    margin: 11px;
+    margin-left: 17px;
+    pointer-events: none;
+    font-size: 17px;
+}
+
+.form-control {
+    padding-left: 30px !important;
+    font-size: 14px;
+    margin-left: 4px;
+    margin-top: 10px;
+    color: #40869B;
+}
+
+.ui {
+    color: #40869B;
+    margin: 10px;
+}
+
+.but {
+    background-color: #40869B;
+    width: 98%;
+    height: 40px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    margin-right: 50px;
+    border: none;
+    color: white;
+}
+
+.but:hover {
+    background-color: #F0F8FF;
+    color: #40869B;
+}
+
+.ima {
+    text-align: center;
+}
+
+.enc {
+    padding: 20px;
+    width: 86%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.fondito {
+    background-color: #40869B;
+}
+
+.text_pie_form {
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
